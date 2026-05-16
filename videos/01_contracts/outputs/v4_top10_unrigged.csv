@@ -1,0 +1,11 @@
+Player,Tm,tier,bucket,Age,years,WA_z,salary_25,npv,npv_effective
+Payton Pritchard,BOS,first_apron,open_negotiation,28,3,1.76,7.2,4.3,9.9
+Jaime Jaquez Jr.,MIA,above_cap_below_tax,open_negotiation,24,2,0.3,3.9,-2.6,-2.6
+Saddiq Bey,NOP,above_cap_below_tax,open_negotiation,26,2,0.63,6.1,-2.7,-2.7
+Miles McBride,NYK,first_apron,open_negotiation,25,2,-0.04,4.3,-3.9,-9.0
+Kevin Porter Jr.,MIL,above_cap_below_tax,open_negotiation,25,2,0.16,5.1,-4.5,-4.5
+Daniss Jenkins,DET,above_cap_below_tax,open_negotiation,24,2,-0.18,3.8,-4.6,-4.6
+Kris Dunn,LAC,taxpayer,open_negotiation,31,2,0.05,5.4,-6.0,-12.0
+Day'Ron Sharpe,BRK,below_cap,open_negotiation,24,2,0.14,6.2,-6.6,-3.3
+Tristan Da Silva,ORL,above_cap_below_tax,open_negotiation,24,3,-0.03,3.8,-6.9,-6.9
+Jose Alvarado,2TM,,open_negotiation,27,2,-0.38,4.5,-7.4,-7.4

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Manim render artifacts (regenerable from scene code + data_loader)
+videos/*/outputs/manim/logs/
+videos/*/outputs/manim/media/
+videos/*/outputs/manim/__pycache__/
+videos/*/outputs/manim/scenes/__pycache__/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude / agent transcripts
+.claude-cache/
